@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**KingDev1026/KingDev1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a senior .NET && Full Stack Engineer, I have rich experience with development.
+My Skills:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 ASP.NET Core Web API
+- 🌱 ASP.NET Core MVC
+- 👯 Razor
+- 🤔 Windows Form application development
+- 💬 WPF development
+- 📫 Mobile development by using MAUI, Flutter, React Native
+- 😄 React, Node, Angular, Express
+- ⚡ MSSQL, MySQL, MongoDB
+- 🙌 Also rich experience PHP with Laravel
